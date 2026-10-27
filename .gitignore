@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+# data, models and results are not stored in this repository
+data/
+raw/
+results/
+*.keras
+*.joblib
+*.npy
+*.feature
+*.fa.gz
+*.csv.gz
+.ipynb_checkpoints/
